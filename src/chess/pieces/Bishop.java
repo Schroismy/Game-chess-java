@@ -7,7 +7,7 @@ import chess.ChessPiece;
 import chess.Color;
 
 public class Bishop extends ChessPiece {
-//Rook->Torre
+//Bishop -> Bispo
 	public Bishop(Board board, Color color) {
 		super(board, color);
 	}
